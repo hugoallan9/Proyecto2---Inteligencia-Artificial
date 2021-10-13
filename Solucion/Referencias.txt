@@ -1,0 +1,4 @@
+https://towardsdatascience.com/super-simple-machine-learning-by-me-multiple-linear-regression-part-1-447800e8b624
+https://towardsdatascience.com/introduction-to-data-preprocessing-in-machine-learning-a9fa83a5dc9d
+https://www.youtube.com/watch?v=q-DyjA8ZmYM
+https://github.com/ageron/handson-ml2
