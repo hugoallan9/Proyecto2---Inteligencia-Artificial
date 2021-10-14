@@ -2,3 +2,4 @@ https://towardsdatascience.com/super-simple-machine-learning-by-me-multiple-line
 https://towardsdatascience.com/introduction-to-data-preprocessing-in-machine-learning-a9fa83a5dc9d
 https://www.youtube.com/watch?v=q-DyjA8ZmYM
 https://github.com/ageron/handson-ml2
+https://harish-reddy.medium.com/regularization-in-python-699cfbad8622
